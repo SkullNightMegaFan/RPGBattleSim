@@ -1,0 +1,14 @@
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\bin\Debug\net8.0\DebugEnviornment.exe
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\bin\Debug\net8.0\DebugEnviornment.deps.json
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\bin\Debug\net8.0\DebugEnviornment.runtimeconfig.json
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\bin\Debug\net8.0\DebugEnviornment.dll
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\bin\Debug\net8.0\DebugEnviornment.pdb
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\DebugEnviornment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\DebugEnviornment.AssemblyInfoInputs.cache
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\DebugEnviornment.AssemblyInfo.cs
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\DebugEnviornment.csproj.CoreCompileInputs.cache
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\DebugEnviornment.dll
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\refint\DebugEnviornment.dll
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\DebugEnviornment.pdb
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\DebugEnviornment.genruntimeconfig.cache
+C:\Users\wolff\Desktop\C#\Notes\AddLogicToC#\DebugEnviornment\obj\Debug\net8.0\ref\DebugEnviornment.dll
